@@ -3,7 +3,7 @@ entries:
   apptest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-06T19:38:53.238709741+02:00"
+    created: "2021-04-06T20:06:57.270159059+02:00"
     description: A Helm chart for Kubernetes
     digest: ce80ddbdc1862903cc2e883d0ef76ef8ff416a8790d3a7c79498371eb0c0596d
     name: apptest
@@ -14,7 +14,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-06T19:38:53.239679529+02:00"
+    created: "2021-04-06T20:06:57.270603136+02:00"
     description: A Helm chart for Kubernetes
     digest: eed43c4b4cdd6a9d34e7e2a173c2abcc6da6cf0d5cd2ca9c179ba1d61f2652c5
     name: helm-chart-test
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://github.com/AlbertHahn/helm/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-06T19:38:53.23746254+02:00"
+generated: "2021-04-06T20:06:57.269561513+02:00"
