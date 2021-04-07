@@ -3,9 +3,9 @@ entries:
   apptest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-07T12:46:46.835553475+02:00"
+    created: "2021-04-07T14:04:59.918389248+02:00"
     description: A Helm chart for Kubernetes
-    digest: bfcf73faae0d947f0a1d7c9924d533c81d30b1ccabd92bd4796f57d38f10ba0a
+    digest: f71ac877a54e2f4da216f40780bb24a5f273d6a0666baeac041f13133e9360d2
     name: apptest
     type: application
     urls:
@@ -14,9 +14,9 @@ entries:
   healthcheck:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-07T12:46:46.836089876+02:00"
+    created: "2021-04-07T14:04:59.919968581+02:00"
     description: A Helm chart for Kubernetes
-    digest: 8e563fc6ea8303076018383bc068f4f195b6806679c37df89e4d19d7f1393753
+    digest: 820fbbffd34c6f2642f76de0896e9a3b2e96c2dbc7ef4da8b986c1782c2837a1
     name: healthcheck
     type: application
     urls:
@@ -25,12 +25,12 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-07T12:46:46.836524306+02:00"
+    created: "2021-04-07T14:04:59.921183157+02:00"
     description: A Helm chart for Kubernetes
-    digest: a3d29ba4317e97e486e24466e1f2725387cbb791c59db4477a1c4d7dbc22bce9
+    digest: 7f19b624b81e5786b9230f73830b6a574569b127dddb9001f15be954380439b2
     name: helm-chart-test
     type: application
     urls:
     - https://github.com/AlbertHahn/helm/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-07T12:46:46.834923437+02:00"
+generated: "2021-04-07T14:04:59.91636598+02:00"
